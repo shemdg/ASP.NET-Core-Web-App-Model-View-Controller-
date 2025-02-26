@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Admin\\source\\repos\\MvcMovie\\MvcMovie\\wwwroot\\images\\ghostbusters-1.jfif",
+      "PackagePath": "staticwebassets\\images\\ghostbusters-1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\MvcMovie\\MvcMovie\\wwwroot\\images\\ghostbusters-2.jfif",
+      "PackagePath": "staticwebassets\\images\\ghostbusters-2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\MvcMovie\\MvcMovie\\wwwroot\\images\\oppenheimer.jfif",
+      "PackagePath": "staticwebassets\\images\\oppenheimer.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\MvcMovie\\MvcMovie\\wwwroot\\images\\rio-bravo.jpg",
+      "PackagePath": "staticwebassets\\images\\rio-bravo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\MvcMovie\\MvcMovie\\wwwroot\\images\\when-harry-meet-sally.jfif",
+      "PackagePath": "staticwebassets\\images\\when-harry-meet-sally.jfif"
+    },
+    {
       "Id": "C:\\Users\\Admin\\source\\repos\\MvcMovie\\MvcMovie\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

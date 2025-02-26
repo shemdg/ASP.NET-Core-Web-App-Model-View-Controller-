@@ -27,7 +27,7 @@ public static class SeedData
                     Genre = "Romantic Comedy",
                     Rating = "R",
                     Price = 7.99M,
-                    Preview = "1"
+                    Preview = "~/images/when-harry-meet-sally.jfif"
                 },
                 new Movie
                 {
@@ -36,7 +36,7 @@ public static class SeedData
                     Genre = "Comedy",
                     Rating = "R",
                     Price = 8.99M,
-                    Preview = "2"
+                    Preview = "~/images/ghostbusters-1.jfif"
                 },
                 new Movie
                 {
@@ -45,7 +45,7 @@ public static class SeedData
                     Genre = "Comedy",
                     Rating = "R",
                     Price = 9.99M,
-                    Preview = "3"
+                    Preview = "~/images/ghostbusters-2.jfif"
                 },
                 new Movie
                 {
@@ -54,7 +54,7 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "R",
                     Price = 3.99M,
-                    Preview = "4"
+                    Preview = "~/images/rio-bravo.jpg"
                 }
             );
             context.SaveChanges();

@@ -35,6 +35,10 @@ namespace MvcMovie.Migrations
                         .HasMaxLength(30)
                         .HasColumnType("nvarchar(30)");
 
+                    b.Property<string>("Preview")
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)");
+
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18, 2)");
 

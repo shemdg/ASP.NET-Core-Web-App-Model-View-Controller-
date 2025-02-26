@@ -26,6 +26,8 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseStaticFiles();
+
 app.UseHttpsRedirection();
 app.UseRouting();
 
@@ -35,7 +37,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
+    pattern: "{controller=Movies}/{action=Index}/{id?}")
     .WithStaticAssets();
 
 

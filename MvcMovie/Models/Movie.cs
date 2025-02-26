@@ -30,5 +30,6 @@ public class Movie
     [Required]
     public string? Rating { get; set; }
 
+    [StringLength(255)]
     public string? Preview { get; set; }
 }
